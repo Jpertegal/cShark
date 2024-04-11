@@ -1,0 +1,18 @@
+{
+    "name": "jpertegal/cshark-main",
+    "type": "phpmailer",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jpertegal\\CsharkMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "desenisp",
+            "email": "desenvolupament@ispgrup.cat"
+        }
+    ]
+}
